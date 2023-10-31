@@ -1,0 +1,15 @@
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.csproj.AssemblyReference.cache
+C:\Users\Almir\source\repos\FFS\obj\Debug\MainWindow.g.cs
+C:\Users\Almir\source\repos\FFS\obj\Debug\App.g.cs
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS_MarkupCompile.cache
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS_MarkupCompile.lref
+C:\Users\Almir\source\repos\FFS\bin\Debug\FFS.exe.config
+C:\Users\Almir\source\repos\FFS\bin\Debug\FFS.exe
+C:\Users\Almir\source\repos\FFS\bin\Debug\FFS.pdb
+C:\Users\Almir\source\repos\FFS\obj\Debug\MainWindow.baml
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.g.resources
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.Properties.Resources.resources
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.csproj.GenerateResource.cache
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.csproj.CoreCompileInputs.cache
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.exe
+C:\Users\Almir\source\repos\FFS\obj\Debug\FFS.pdb
