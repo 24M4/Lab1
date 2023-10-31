@@ -1,0 +1,15 @@
+C:\Users\Almir\source\repos\ChooseProgram\bin\Debug\ChooseProgram.exe.config
+C:\Users\Almir\source\repos\ChooseProgram\bin\Debug\ChooseProgram.exe
+C:\Users\Almir\source\repos\ChooseProgram\bin\Debug\ChooseProgram.pdb
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.csproj.AssemblyReference.cache
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\MainWindow.g.cs
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\App.g.cs
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram_MarkupCompile.cache
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram_MarkupCompile.lref
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\MainWindow.baml
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.g.resources
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.Properties.Resources.resources
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.csproj.GenerateResource.cache
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.exe
+C:\Users\Almir\source\repos\ChooseProgram\obj\Debug\ChooseProgram.pdb

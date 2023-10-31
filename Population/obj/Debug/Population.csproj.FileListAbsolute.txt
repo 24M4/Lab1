@@ -1,0 +1,15 @@
+C:\Users\Almir\source\repos\Population\bin\Debug\Population.exe.config
+C:\Users\Almir\source\repos\Population\bin\Debug\Population.exe
+C:\Users\Almir\source\repos\Population\bin\Debug\Population.pdb
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.csproj.AssemblyReference.cache
+C:\Users\Almir\source\repos\Population\obj\Debug\MainWindow.g.cs
+C:\Users\Almir\source\repos\Population\obj\Debug\App.g.cs
+C:\Users\Almir\source\repos\Population\obj\Debug\Population_MarkupCompile.cache
+C:\Users\Almir\source\repos\Population\obj\Debug\Population_MarkupCompile.lref
+C:\Users\Almir\source\repos\Population\obj\Debug\MainWindow.baml
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.g.resources
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.Properties.Resources.resources
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.csproj.GenerateResource.cache
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.csproj.CoreCompileInputs.cache
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.exe
+C:\Users\Almir\source\repos\Population\obj\Debug\Population.pdb
